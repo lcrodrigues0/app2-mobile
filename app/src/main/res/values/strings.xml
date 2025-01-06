@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DogCatApp</string>
+    <string name="title1">Frases de gatos e cachorros</string>
+    <string name="enterYourName">Digite seu nome</string>
+    <string name="enter_btn">GUARDAR</string>
+    <string name="cat_image">cat image</string>
+    <string name="dog_image">dog image</string>
+    <string name="sentence">Uma frase extremamente interessante sobre cachorro ou gato.</string>
+    <string name="greetings">Olá, %1$s</string>
+    <string name="beget_button">GERAR OUTRA FRASE</string>
 </resources>
